@@ -1,5 +1,5 @@
 # Metal-Seed-Storage
-Collection of existing metal seed storage solution for Bitcoin. There are many experimental solutions out there which are not considered in this list. Only available solutions are listed. The evaluation criteria are based on the detailed experiments of Jamson Loop. "A" is the best "F" the worst - anything in between is a grey area. The table is sort by rating.
+Collection of existing metal seed storage solution for Bitcoin. There are many experimental solutions out there which are not considered in this list. Only available solutions are listed. The evaluation criteria are based on the detailed experiments of Jamson Lopp. "A" is the best "F" the worst - anything in between is a grey area. The table is sort by rating.
 
 * [Metal Bitcoin Seed Storage Stress Test (Part I)](https://blog.lopp.net/metal-bitcoin-seed-storage-stress-test/)
 * [Metal Bitcoin Seed Storage Stress Test (Part II)](https://blog.lopp.net/metal-bitcoin-seed-storage-stress-test--part-ii-/)
